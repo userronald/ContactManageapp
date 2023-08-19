@@ -1,0 +1,1 @@
+A simple Contact manangement app in Angular, The features are user can view the added contact details , he can add , edit and delete the contact details by CRUD Operation.

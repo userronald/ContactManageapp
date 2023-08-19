@@ -1,0 +1,10 @@
+.wrapper {
+    display: flex;
+  }
+  
+  #content {
+    flex: 1; /* Fill available space */
+    margin-left: 170px; /* Width of the sidebar */
+    transition: all 0.3s;
+  }
+  

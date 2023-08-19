@@ -1,0 +1,19 @@
+.navbar{
+    background-color: white;
+    justify-content: center;
+    
+}
+
+.navbar-brand{
+    background-color: white;
+    font-size: xx-large;
+    font-weight: 700;
+    color: #35b7c5;
+    margin: auto;
+    width: 50%;
+
+}
+
+.bg-light{
+    background-color: white;
+}

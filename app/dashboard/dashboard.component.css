@@ -1,0 +1,28 @@
+#sidebar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100%; /* Cover full height of the page */
+    max-width: 105px;
+    background: #343a40;
+    color: white;
+    transition: all 0.3s;
+    overflow-y: auto; /* Add scroll if needed */
+    background-color: cornflowerblue;
+    border: 1px solid black;
+  }
+  
+  #sidebar.active {
+    margin-left: -250px;
+  }
+  
+  .list-unstyled {
+    padding: 20px;
+  }
+  #sidebarCollapse {
+    position: fixed;
+    top: 15px;
+    left: 15px;
+    z-index: 1000; /* Ensure the button is above other content */
+  }
+    
